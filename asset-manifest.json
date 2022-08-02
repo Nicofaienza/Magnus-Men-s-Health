@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Magnus-Men-s-Health/static/css/main.24046d54.css",
+    "main.js": "/Magnus-Men-s-Health/static/js/main.54ef90cf.js",
+    "static/media/bghome.png": "/Magnus-Men-s-Health/static/media/bghome.d4e6950fc632266e967c.png",
+    "static/media/stepsvideo.png": "/Magnus-Men-s-Health/static/media/stepsvideo.fb81b55cf3241b60e870.png",
+    "static/media/footbg.png": "/Magnus-Men-s-Health/static/media/footbg.f3a91dacf877f1d934c1.png",
+    "static/media/Symptoms1.png": "/Magnus-Men-s-Health/static/media/Symptoms1.bc5c87d9c027616d7c49.png",
+    "static/media/servicesimg1.png": "/Magnus-Men-s-Health/static/media/servicesimg1.b50e4143983ebb31a463.png",
+    "static/media/stepsbg2.png": "/Magnus-Men-s-Health/static/media/stepsbg2.75cc9cc0c3ed7f7e66a9.png",
+    "static/media/servicesimg3.png": "/Magnus-Men-s-Health/static/media/servicesimg3.f70ca51f46812066e72c.png",
+    "static/media/Symptoms2.png": "/Magnus-Men-s-Health/static/media/Symptoms2.dc36b16fc4b69d86f0e9.png",
+    "static/media/servicesimg4.png": "/Magnus-Men-s-Health/static/media/servicesimg4.badf992d5566e6c0d653.png",
+    "static/media/tetosteronebg.png": "/Magnus-Men-s-Health/static/media/tetosteronebg.b3295843947a66b6a519.png",
+    "static/media/newsimg3.png": "/Magnus-Men-s-Health/static/media/newsimg3.9d59e4359daf649b243b.png",
+    "static/media/newsimg1.png": "/Magnus-Men-s-Health/static/media/newsimg1.2465729a46b2c6b371da.png",
+    "static/media/newsimg2.png": "/Magnus-Men-s-Health/static/media/newsimg2.547786199f9d0cb799ac.png",
+    "static/media/servicesimg2.png": "/Magnus-Men-s-Health/static/media/servicesimg2.4e3b386a81ab7c67a433.png",
+    "static/media/whatbg.png": "/Magnus-Men-s-Health/static/media/whatbg.0be5f19a60801d928729.png",
+    "static/media/faqsbg.png": "/Magnus-Men-s-Health/static/media/faqsbg.33a6f54c534ac35eb2d5.png",
+    "static/media/servicesbg.png": "/Magnus-Men-s-Health/static/media/servicesbg.f16e9eab64effc12e10b.png",
+    "static/media/Symptomsbg.png": "/Magnus-Men-s-Health/static/media/Symptomsbg.db69370e4142c4bd4f98.png",
+    "index.html": "/Magnus-Men-s-Health/index.html",
+    "main.24046d54.css.map": "/Magnus-Men-s-Health/static/css/main.24046d54.css.map",
+    "main.54ef90cf.js.map": "/Magnus-Men-s-Health/static/js/main.54ef90cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24046d54.css",
+    "static/js/main.54ef90cf.js"
+  ]
+}
